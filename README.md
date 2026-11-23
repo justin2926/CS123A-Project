@@ -1,6 +1,15 @@
 # CS123A-Project-Classification of Mushrooms and Beans
 ##  Project Overview
 This project explores machine learning classification using two biological datasets from the UCI Machine Learning Repository. We use a Random Forest classifier to learn patterns from the features of each dataset and predict the correct class for new samples.
+
+##  How to run the notebook
+1. In this Github repository, click the .ipynb notebook file.
+2. Click Download raw file or download the notebook to your computer.
+3. Open Google Colab
+4. In Google Colab, click **File** and **Upload notebook**.
+5. After the notebook opens, Click **Runtime** and **Run all**.
+6. The notebook will automatically install the required package and display the results.
+
 ##  Dataset 1: Mushroom Dataset
 The Mushroom Dataset contains **8,124 samples** and **22 original features.**
 
